@@ -45,6 +45,7 @@
 		</dependency>
 	</dependencies>
 
+	//changing pom as usual
 	<build>
 		<plugins>
 			<plugin>
